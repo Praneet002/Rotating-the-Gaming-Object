@@ -38,8 +38,8 @@ Stop
 
 ## Program:
 ```
-Developed by : DHARSHAN V
-Reg. no.: 212222230031
+Developed by : PRANEET S
+Reg. no.: 212221230078
 
 
 using System.Collections;
